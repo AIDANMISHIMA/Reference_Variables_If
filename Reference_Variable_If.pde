@@ -17,3 +17,4 @@ void draw() {
  rect(20,random(400),30,150);
  rect(480,random(400),30,150);
 }
+//variables
